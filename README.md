@@ -9,12 +9,14 @@
 <br>
 
 
-<h3>Thing that I code with</h3>
+<h3>Langugues and Tools</h3>
 <p>
-  	<img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white&color=orange"/>
-	<img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-	<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-	<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white">
-	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+	<img align=left style="margin: 0px 10px 0px 10px" width=40 src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg">
+	<img align=left style="margin: 0px 10px 0px 10px" width=40 src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/javascript/javascript-original.svg">
+	<img align=left style="margin: 0px 10px 0px 10px" width=40 src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/css3/css3-plain.svg">
+	<img align=left style="margin: 0px 10px 0px 10px" width=40 src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/html5/html5-plain.svg">
+	<img align=left style="margin: 0px 10px 0px 10px" width=40 src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/git/git-original.svg"/>
+	<img align=left style="margin: 0px 10px 0px 10px" width=40 src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/github/github-original.svg"/>
+
 </p>
 <! Graph for constributions >

@@ -1,6 +1,6 @@
 <h1>Hello, I'm Matias Constanzo Monsalve</h1>
 
-<h2>About Me</h2>
+## About Me
 - 🎓 **Computer Engineering** student (Ing. Civil en Informática) @ UBB, Chile.  
 - 🌱 Learning **Full-Stack Development** (Node.js, Express, React).  
 - 🐧 **Linux enthusiast** — daily driver, scripting, and open-source contributor.  

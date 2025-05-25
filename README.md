@@ -1,6 +1,7 @@
 <h1>Hello, I'm Matias Constanzo Monsalve</h1>
 
 ## About Me
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 <h3>👨‍💻 About Me</h3>
 <ul>
   <li>🎓 <strong>Computer Engineering</strong> student (Ing. Civil en Informática) @ UBB, Chile.</li>
@@ -8,7 +9,6 @@
   <li>🐧 <strong>Linux enthusiast</strong> — daily driver, scripting, and open-source contributor.</li>
   <li>🚀 Goal: Build scalable systems that bridge infrastructure and software.</li>
 </ul>
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 ## <h2>Skills</h2>
 <h4>Languages</h4>

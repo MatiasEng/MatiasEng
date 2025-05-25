@@ -43,7 +43,7 @@
   </span>
   <br> <!-- Force line break -->
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasEng&layout=compact&theme=react&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasEng&layout=compact&theme=react&langs_count=8&hide_border=true"/>
   </span>
 </div>
 

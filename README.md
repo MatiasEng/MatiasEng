@@ -5,7 +5,7 @@
 <h3>👨‍💻 About Me</h3>
 <ul>
   <li>🎓 <strong>Computer Engineering</strong> student (Ing. Civil en Informática) @ UBB, Chile.</li>
-  <li>🌱 Learning <strong>Full-Stack Development</strong> (Node.js, Express, React).</li>
+  <li>🌱 Learning <strong>Full-Stack Development</strong> (Node.js, Express, MySQL).</li>
   <li>🐧 <strong>Linux enthusiast</strong> — daily driver, scripting, and open-source contributor.</li>
   <li>🚀 Goal: Build scalable systems that bridge infrastructure and software.</li>
 </ul>

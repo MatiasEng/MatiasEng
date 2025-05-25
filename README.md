@@ -1,13 +1,15 @@
 <h1>Hello, I'm Matias Constanzo Monsalve</h1>
 
+<h2>About Me</h2>
 
 ## <h2>Skills</h2>
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 <h4>Data Bases</h4>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src=""/>
+<div>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
 <h4>Web Development</h4>
 <div>

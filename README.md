@@ -1,10 +1,13 @@
 <h1>Hello, I'm Matias Constanzo Monsalve</h1>
 
 ## About Me
-- 🎓 **Computer Engineering** student (Ing. Civil en Informática) @ UBB, Chile.  
-- 🌱 Learning **Full-Stack Development** (Node.js, Express, React).  
-- 🐧 **Linux enthusiast** — daily driver, scripting, and open-source contributor.  
-- 🚀 Goal: Build scalable systems that bridge infrastructure and software.  
+<h3>👨‍💻 About Me</h3>
+<ul>
+  <li>🎓 <strong>Computer Engineering</strong> student (Ing. Civil en Informática) @ UBB, Chile.</li>
+  <li>🌱 Learning <strong>Full-Stack Development</strong> (Node.js, Express, React).</li>
+  <li>🐧 <strong>Linux enthusiast</strong> — daily driver, scripting, and open-source contributor.</li>
+  <li>🚀 Goal: Build scalable systems that bridge infrastructure and software.</li>
+</ul>
 
 ## <h2>Skills</h2>
 <h4>Languages</h4>

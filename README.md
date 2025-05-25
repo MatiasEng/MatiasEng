@@ -43,6 +43,7 @@
   </span>
   <br> <!-- Force line break -->
   <span>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatiasEng&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react&hide_border=true"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiasEng&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true"/>
   </span>
 </div>
@@ -54,9 +55,6 @@
   </a>
   <a href="https://www.linkedin.com/in/matiaseng/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/m4ti4s_404/" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="mailto:contact.matias22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">

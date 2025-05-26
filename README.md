@@ -40,6 +40,8 @@
 <div>
   <img src="https://img.shields.io/badge/Terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
 </div>
 
 

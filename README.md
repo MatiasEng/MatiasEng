@@ -1,18 +1,16 @@
 <h1>Hello, I'm Matias Constanzo Monsalve</h1>
 
-## 👨‍💻 About Me
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+## About Me
+<img align="right" height="200" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
 <br>
-<ul>
-  <li>🎓 <strong>Computer Engineering</strong> student (Ing. Civil en Informática) @ UBB, Chile.</li>
-  <li>🌱 Learning <strong>Full-Stack Development</strong> (Node.js, Express, MySQL).</li>
-  <li>🐧 <strong>Linux enthusiast</strong> — daily driver, scripting, and open-source contributor.</li>
-  <li>🚀 Goal: Build scalable systems that bridge infrastructure and software.</li>
-</ul>
 
+- 🎓 **Computer Engineering** student (Ing. Civil en Informática) @ UBB, Chile.  
+- 🌱 Learning **Full-Stack Development** (Node.js, Express, MySQL).  
+- 🐧 **Linux enthusiast** — daily driver, scripting, and open-source contributor.  
+- 🚀 Goal: Build scalable systems that bridge infrastructure and software.  
+<br clear="right">
 
-<br>
-<h2>Skills</h2>
+## <h2>Skills</h2>
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 

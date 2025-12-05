@@ -5,7 +5,7 @@
 <br>
 
 - 🎓 **Computer Engineering** student (Ing. Civil en Informática) @ UBB, Chile.  
-- 🌱 Learning **Full-Stack Development** (Node.js, Express, MongoDB).  
+- 🌱 Learning **Full-Stack Development** (Node.js, Express, MongoDB, react).  
 - 🐧 **Linux enthusiast** — daily driver, scripting, and open-source contributor.  
 - 🚀 Goal: Build scalable systems that bridge infrastructure and software.  
 <br clear="right">
